@@ -1,2 +1,4 @@
-# Ola Mundo
- Primeiro Repositorio versionado do curso git e gitup
+# Olá, Mundo
+ Primeiro repositorio versionado do curso git e gitup
+
+ Repositorio criado 
